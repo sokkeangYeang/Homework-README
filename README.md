@@ -90,3 +90,15 @@ npm test        # Run test cases
 ```
 ## 👥 Contributors
 
+![@sokkeangYeang](https://github.com/sokkeangYeang/Homework-README)
+
+## 📄 License
+#### This project is licensed under the MIT License. See the LICENSE file for more details.
+```
+---
+
+Let me know:
+- if your project uses MongoDB or MySQL (so I can adjust that part),
+- if you want to include screenshots or setup diagrams,
+- or if you'd like this saved as a downloadable `.md` file.
+```
